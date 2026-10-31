@@ -1,0 +1,91 @@
+{
+  "kind": "jasa",
+  "template": "tech",
+  "accent": "#831100",
+  "palette": [
+    "#831100",
+    "#ff6251"
+  ],
+  "slogan": "Logo cepat, brand kuat",
+  "hover": "tilt",
+  "testimonial": {
+    "text": "",
+    "name": ""
+  },
+  "hero": "asymmetric",
+  "feat": "bento",
+  "brand": "Studio Kita",
+  "brandIcon": "",
+  "badge": "",
+  "headline": "Desain logo UMKM dalam 3 hari",
+  "subheadline": "Revisi tanpa batas, hasil siap pakai untuk usaha kecilmu.",
+  "ctaLabel": "Minta Penawaran",
+  "features": [
+    {
+      "icon": "clock",
+      "title": "3 hari kerja",
+      "text": "Konsep pertama dikirim pada hari ketiga setelah order.",
+      "span": 2
+    },
+    {
+      "icon": "badge-check",
+      "title": "Revisi unlimited",
+      "text": "Perbaikan sampai kamu puas, tanpa tambahan biaya.",
+      "span": 1
+    },
+    {
+      "icon": "store",
+      "title": "Khusus UMKM",
+      "text": "Harga disesuaikan dengan modal usaha kecil.",
+      "span": 1
+    }
+  ],
+  "itemsTitle": "Layanan",
+  "items": [
+    {
+      "id": "sg45fzi0",
+      "name": "Paket Logo Express",
+      "desc": "3 konsep awal, revisi unlimited, file siap cetak.",
+      "price": 0,
+      "category": "",
+      "icon": "palette",
+      "img": "",
+      "size": "large",
+      "tag": "Paling dicari"
+    },
+    {
+      "id": "sg45fzi1",
+      "name": "Paket Identitas Visual",
+      "desc": "Logo, palet warna, tipografi, panduan penggunaan.",
+      "price": 0,
+      "category": "",
+      "icon": "paintbrush",
+      "img": "",
+      "size": "small",
+      "tag": ""
+    },
+    {
+      "id": "sg45fzi2",
+      "name": "Desain Kemasan Produk",
+      "desc": "Label dan kemasan sesuai ukuran produkmu.",
+      "price": 0,
+      "category": "",
+      "icon": "package",
+      "img": "",
+      "size": "small",
+      "tag": ""
+    }
+  ],
+  "articles": [],
+  "stepsTitle": "Cara Pesan",
+  "steps": [],
+  "aboutTitle": "Tentang Kami",
+  "about": "",
+  "whatsapp": "",
+  "email": "hello@studiokita.id",
+  "address": "Jl. Merdeka No.10, Jakarta",
+  "hours": "",
+  "featuresTitle": "Keunggulan",
+  "closing": "Hubungi kami",
+  "closingText": ""
+}
